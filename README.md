@@ -108,7 +108,7 @@ git tracks and manages the project’s codebase, ensuring version control.
 These packages, together, create an interactive, dynamic, and smooth user experience for your Apple Watch Studio Clone, allowing users to customize their watch selection and share their configurations easily.
 
 
-Open your browser and visit http://localhost:3000 to view the project.
+Open your browser and visit https://apple-watch-studio-clone-drab.vercel.app/ to view the project.
 
 Technologies Used
 HTML, CSS, JavaScript (React)
